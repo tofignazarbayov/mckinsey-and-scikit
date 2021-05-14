@@ -1,0 +1,200 @@
+Std >> 35
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1618.7760077025769
+Sum of total allocation of energy in raw pred >> 50000.00000000021
+Sum of total allocation of energy in rounded pred >> 49998.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 6869.8296812733715
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 6864.0
+Std >> 30
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1596.696415295873
+Sum of total allocation of energy in raw pred >> 50000.00000000544
+Sum of total allocation of energy in rounded pred >> 50000.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 6392.98669073667
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 6393.0
+Std >> 25
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1573.9301811516686
+Sum of total allocation of energy in raw pred >> 50000.0
+Sum of total allocation of energy in rounded pred >> 50005.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5982.19154624856
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5985.0
+Std >> 20
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1551.0846898906748
+Sum of total allocation of energy in raw pred >> 50000.0
+Sum of total allocation of energy in rounded pred >> 50002.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5583.478983751976
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5583.0
+Std >> 15
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1528.2391643410097
+Sum of total allocation of energy in raw pred >> 50000.0
+Sum of total allocation of energy in rounded pred >> 50007.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5184.932080887697
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5187.0
+Std >> 10
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1505.184514433884
+Sum of total allocation of energy in raw pred >> 50000.00000000001
+Sum of total allocation of energy in rounded pred >> 50005.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5000.000000000138
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5002.0
+Std >> 9
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1500.3769019680772
+Sum of total allocation of energy in raw pred >> 50000.0
+Sum of total allocation of energy in rounded pred >> 49990.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5000.0000000001455
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5003.0
+Std >> 8
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1495.4158441896532
+Sum of total allocation of energy in raw pred >> 50000.00000000001
+Sum of total allocation of energy in rounded pred >> 50008.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5000.000000001203
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5001.0
+Std >> 7
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1490.207043733457
+Sum of total allocation of energy in raw pred >> 49999.99999999999
+Sum of total allocation of energy in rounded pred >> 50010.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5000.000000000054
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5007.0
+Std >> 6
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1484.542454388462
+Sum of total allocation of energy in raw pred >> 50000.0
+Sum of total allocation of energy in rounded pred >> 49998.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5000.000000000421
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5005.0
+Std >> 5
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1477.7799486963293
+Sum of total allocation of energy in raw pred >> 50000.0
+Sum of total allocation of energy in rounded pred >> 50005.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5000.000000000002
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5003.0
+Std >> 4
+Std >> 100
+Std >> 35
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1618.7760077025769
+Sum of total allocation of energy in raw pred >> 50000.00000000021
+Sum of total allocation of energy in rounded pred >> 49998.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 6869.8296812733715
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 6864.0
+Std >> 40
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1637.9125141328554
+Sum of total allocation of energy in raw pred >> 50000.000000006155
+Sum of total allocation of energy in rounded pred >> 49990.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 7090.704469510435
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 7091.0
+Std >> 45
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1650.2945327723846
+Sum of total allocation of energy in raw pred >> 50000.00000000197
+Sum of total allocation of energy in rounded pred >> 50010.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 7099.9999999925
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 7100.0
+Std >> 50
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1654.5815556635723
+Sum of total allocation of energy in raw pred >> 50000.00000018875
+Sum of total allocation of energy in rounded pred >> 49998.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 7100.0
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 7100.0
+Std >> 55
+Std >> 45
+Std >> 45
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1650.2945327723846
+Sum of total allocation of energy in raw pred >> 50000.00000000197
+Sum of total allocation of energy in rounded pred >> 50010.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 7099.9999999925
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 7100.0
+Std >> 40
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1637.9125141328554
+Sum of total allocation of energy in raw pred >> 50000.000000006155
+Sum of total allocation of energy in rounded pred >> 49990.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 7090.704469510435
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 7091.0
+Std >> 35
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1618.7760077025769
+Sum of total allocation of energy in raw pred >> 50000.00000000021
+Sum of total allocation of energy in rounded pred >> 49998.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 6869.8296812733715
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 6864.0
+Std >> 30
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1596.696415295873
+Sum of total allocation of energy in raw pred >> 50000.00000000544
+Sum of total allocation of energy in rounded pred >> 50000.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 6392.98669073667
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 6393.0
+Std >> 25
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1573.9301811516686
+Sum of total allocation of energy in raw pred >> 50000.0
+Sum of total allocation of energy in rounded pred >> 50005.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5982.19154624856
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5985.0
+Std >> 20
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1551.0846898906748
+Sum of total allocation of energy in raw pred >> 50000.0
+Sum of total allocation of energy in rounded pred >> 50002.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5583.478983751976
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5583.0
+Std >> 15
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1528.2391643410097
+Sum of total allocation of energy in raw pred >> 50000.0
+Sum of total allocation of energy in rounded pred >> 50007.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5184.932080887697
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5187.0
+Std >> 10
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1505.184514433884
+Sum of total allocation of energy in raw pred >> 50000.00000000001
+Sum of total allocation of energy in rounded pred >> 50005.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5000.000000000138
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5002.0
+Std >> 9
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1500.3769019680772
+Sum of total allocation of energy in raw pred >> 50000.0
+Sum of total allocation of energy in rounded pred >> 49990.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5000.0000000001455
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5003.0
+Std >> 8
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1495.4158441896532
+Sum of total allocation of energy in raw pred >> 50000.00000000001
+Sum of total allocation of energy in rounded pred >> 50008.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5000.000000001203
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5001.0
+Std >> 7
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1490.207043733457
+Sum of total allocation of energy in raw pred >> 49999.99999999999
+Sum of total allocation of energy in rounded pred >> 50010.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5000.000000000054
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5007.0
+Std >> 6
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1484.542454388462
+Sum of total allocation of energy in raw pred >> 50000.0
+Sum of total allocation of energy in rounded pred >> 49998.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5000.000000000421
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5005.0
+Std >> 5
+Optimization terminated successfully.
+Sum of increase in indexes after optimization >> 1477.7799486963293
+Sum of total allocation of energy in raw pred >> 50000.0
+Sum of total allocation of energy in rounded pred >> 50005.0
+Sum of energy alllocation for galaxies with energy < 0.7 in raw pred >> 5000.000000000002
+Sum of energy alllocation for galaxies with energy < 0.7 in rounded pred >> 5003.0
